@@ -15,17 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##currently pursuing  Btech 3rd year information technology
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div class="Gif">
-        <img src="gify image.png">  
-         </div>
-</body>
-</html>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1ass6vI6PnjCB183enPNY9&ust=1737262636260000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC5-I2-_ooDFQAAAAAdAAAAABAR"> 
