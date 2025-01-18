@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ##currently pursuing  Btech 3rd year information technology
 
 
-  <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
+  <img src="https://i.gifer.com/3Ayb.gif">
