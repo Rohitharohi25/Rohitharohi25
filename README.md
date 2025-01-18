@@ -15,3 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##currently pursuing  Btech 3rd year information technology
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="Gif">
+        <img src="gify image.png">  
+         </div>
+</body>
+</html>
